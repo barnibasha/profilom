@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/8bit-wonder" type="text/css"/>
   <link rel="shortcut icon" href="assets/turnip-head.jpg" type="image/x-icon" />
+  <link rel="stylesheet" type="text/css" href="_config.yml">
 </head>
 <body><div id="canvas">
   <img id="turnip" class="center" src="assets/turnip-head.jpg">
