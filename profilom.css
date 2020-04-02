@@ -86,3 +86,6 @@ h3 {
 .social:hover {
   opacity: 0.5;
 }
+h3 {
+  margin: 0;
+}
