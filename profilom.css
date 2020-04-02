@@ -39,9 +39,9 @@ body{
 }
 #textaboutme1 {
     max-width: 990px;
-    width: 50%;
+    width: 60%;
     margin: 0 auto;
-    font-size: 1.1pc;
+    font-size: 1.3pc;
   text-align:justify;
 }
 #canvas {
