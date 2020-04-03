@@ -39,15 +39,15 @@ body{
 }
 #textaboutme1 {
     max-width: 990px;
-    width: 65%;
+    width: 50%;
     margin: 0 auto;
-    font-size: 1.3pc;
+    font-size: 1.4pc;
   text-align:justify;
 }
 #canvas {
   background-color:rgba(255,255,255,.7);
   border-radius: 7%;
-   width: 550px;
+   width: 560px;
   margin: 0 auto;
 }
 #vid {
@@ -61,7 +61,7 @@ body{
   transition: 0.3s;
 }
 div {
-  padding-bottom: 2pc;
+  padding-bottom: 3pc;
 }
 h3 {
   margin: 0;
