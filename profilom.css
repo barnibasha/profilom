@@ -39,7 +39,7 @@ body{
 }
 #textaboutme1 {
     max-width: 990px;
-    width: 60%;
+    width: 65%;
     margin: 0 auto;
     font-size: 1.3pc;
   text-align:justify;
@@ -47,7 +47,7 @@ body{
 #canvas {
   background-color:rgba(255,255,255,.7);
   border-radius: 7%;
-   width: 500px;
+   width: 550px;
   margin: 0 auto;
 }
 #vid {
@@ -55,7 +55,7 @@ body{
   font-size: 11px;
 }
 .social {
-  padding-left: 5.2pc;
+  padding-left: 5.65pc;
   padding-top: 1.8pc;
   font-size: 1.5pc;
   transition: 0.3s;
