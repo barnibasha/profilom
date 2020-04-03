@@ -49,11 +49,12 @@ body{
   border-radius: 7%;
    width: 560px;
   margin: 0 auto;
+  max-width: 90%;
 }
 .social {
   padding-left: 4.8pc;
   padding-top: 1.8pc;
-  font-size: 1.5pc;
+  font-size: 2pc;
   transition: 0.3s;
 }
 div {
