@@ -47,7 +47,7 @@ body{
 #canvas {
   background-color:rgba(255,255,255,.7);
   border-radius: 7%;
-   width: 500px;
+   width: 460px;
   margin: 0 auto;
   max-width: 90%;
 }
